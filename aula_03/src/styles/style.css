@@ -1,0 +1,37 @@
+body {
+    background-image: url(/aula_02/src/img/fundo.jpg);
+}
+
+#rowP {
+    height: 100vh;
+}
+
+form {
+    padding: 10px;
+}
+
+.btn {
+    background-color: #37495f !important;
+    color: white !important;
+    border: 2px solid white;
+}
+
+.btn:hover {
+    background-color: white !important;
+    color: #37495f !important;
+    border: 2px solid #37495f !important;
+}
+
+span, h2, h5 {
+    color: #37495f !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number]{
+    -moz-appearance: textfield;
+}
