@@ -1,0 +1,7 @@
+body{
+    background-image: url(/aula_02/src/img/fundo.jpg);
+}
+
+.row{
+    height: 100vh;
+}
