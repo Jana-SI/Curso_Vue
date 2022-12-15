@@ -8,7 +8,7 @@
             <h2><strong>Curso Vue</strong></h2>
           </div>
           <div class="card-body">
-            <h3 class="card-title text-center "><strong>Aula 10</strong></h3>
+            <h3 class="card-title text-center "><strong>Aula 11</strong></h3>
             <Pessoa />
           </div>
         </div>
