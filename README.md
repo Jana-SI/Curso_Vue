@@ -2,7 +2,7 @@
 
 <p>
 
-<a href="https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL">
+<a href="https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL" target="_blank">
 
 <img src="https://img.shields.io/badge/Playlist-Clique aqui-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
